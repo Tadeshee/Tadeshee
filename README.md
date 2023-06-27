@@ -4,11 +4,11 @@
 
 - 🔭 I am currently working on **Power BI Projects & SQL Databases**
 
-- 🌱 I am currently learning **Advanced techniques in data visualization using Power BI, as well as expanding my knowledge of SQL database management and Python programming**
+- 🌱 I am currently learning **Advanced techniques in Data Visualization using Power BI, as well as expanding my knowledge of SQL Database Management and Python programming**
 
-- 🫂 I am looking to collaborate on **Power BI projects, SQL database management, and Python data analysis tasks**
+- 🫂 I am looking to collaborate on **Power BI projects, SQL Database Management, and Python Data Analysis tasks**
 
-- 💬 Ask me about **Python for Data analysis, MS Excel, SQL, Power BI**
+- 💬 Ask me about **Power BI, Python for Data Analysis, MS Excel, SQL**
 
 - 📫 How to reach me **tadese.emmanuel@gmail.com**
 
