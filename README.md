@@ -1,4 +1,4 @@
-![2 (1)](https://github.com/Tadeshee/Tadeshee/assets/124716537/9ff806aa-dd6d-4660-a623-2b8d8fb03147)
+![2 (2)](https://github.com/Tadeshee/Tadeshee/assets/124716537/279b29cc-e18d-4374-9240-c0e9ab1b2fb0)
 <h1 align="center">Hello 👋🤪,my name is Emmanuel Tadese</h1>
 <h3 align="center">I consider myself an ambitious and detail-oriented Data Analyst professional. I am passionate about leveraging data to make data-driven solutions and derive insights.</h3>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emmanueltadese/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanueltadese/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanueltadese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanueltadese" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
