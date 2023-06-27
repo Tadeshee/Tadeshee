@@ -1,5 +1,4 @@
-![1](https://github.com/Tadeshee/Tadeshee/assets/124716537/bcf8db7f-8058-499d-a16c-48376ea20680)![2](https://github.com/Tadeshee/Tadeshee/assets/124716537/ed69359b-a40f-4111-a7e4-28e21f461cc2)
-
+![2 (1)](https://github.com/Tadeshee/Tadeshee/assets/124716537/9ff806aa-dd6d-4660-a623-2b8d8fb03147)
 <h1 align="center">Hello 👋🤪,my name is Emmanuel Tadese</h1>
 <h3 align="center">I consider myself an ambitious and detail-oriented Data Analyst professional. I am passionate about leveraging data to make data-driven solutions and derive insights.</h3>
 
