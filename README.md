@@ -1,6 +1,6 @@
 ![Esri map](https://github.com/Tadeshee/Tadeshee/assets/124716537/e0efc174-36b2-4064-9a57-c80e13acbefb)
 <h1 align="center">Hello 👋🤪,my name is Emmanuel Tadese</h1>
-<h3 align="center">I consider myself an ambitious and detail-oriented Data Analyst professional. I am passionate about leveraging data to make data-driven solutions and derive insights.</h3>
+<h3 align="center">I consider myself an ambitious and detail-oriented Analyst professional. I am passionate about leveraging data to make data-driven solutions and derive insights.</h3>
 
 - 🔭 I am currently working on **Power BI Projects & SQL Databases**
 
